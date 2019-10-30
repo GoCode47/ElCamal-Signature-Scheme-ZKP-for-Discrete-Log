@@ -12,5 +12,5 @@ How to use:
 2. Open prover.py in another terminal
 3. Follow on-screen instructions
 
-![verifier](https://drive.google.com/open?id=1CGDC7BrbkIGDywaY7ok9leU12WjRO34B)
-![prover](https://drive.google.com/open?id=1IVGQOnD8cALt4CmShTtvwb-nt7QnYFsr)
+![verifier](https://i.ibb.co/BnK72XT/1.png)
+![prover](https://i.ibb.co/x5FWWKv/2.png)
